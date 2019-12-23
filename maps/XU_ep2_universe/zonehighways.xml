@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+    <add sel="(//macros/macro[@name='Highway01_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[1]" type="@weight">0</add>
+    <add sel="(//macros/macro[@name='Highway01_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[2]" type="@weight">1</add>
+    <add sel="(//macros/macro[@name='Highway01_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[3]" type="@weight">1</add>
+    <add sel="(//macros/macro[@name='Highway01_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[4]" type="@weight">1</add>
+    <add sel="(//macros/macro[@name='Highway01_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[5]" type="@weight">0</add>
+
+    <add sel="(//macros/macro[@name='Highway02_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[1]" type="@weight">0</add>
+    <add sel="(//macros/macro[@name='Highway02_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[2]" type="@weight">1</add>
+    <add sel="(//macros/macro[@name='Highway02_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[3]" type="@weight">1</add>
+    <add sel="(//macros/macro[@name='Highway02_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[4]" type="@weight">1</add>
+    <add sel="(//macros/macro[@name='Highway02_Cluster_04_Sector001_macro']/properties/boundaries/boundary[@class='splinetube']/splineposition)[5]" type="@weight">0</add>
+</diff>
